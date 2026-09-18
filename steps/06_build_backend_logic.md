@@ -1,0 +1,4 @@
+- Prompt para criar lógica backend para envio de emails incluindo testes unitários
+- Comentarios sobre testes: além dos testes unitários, vamos testar deployando na conta direto, mas jamais faria isso em ambiente de produçao. Nesse caso valeria ter uma conta para desenvolvimento e outra para ambiente de produção, além dos testes automatizados
+- Fazer deploy do backend na AWS com Agent Toolkit
+- Conectar formulário do frontend à aplicação backend

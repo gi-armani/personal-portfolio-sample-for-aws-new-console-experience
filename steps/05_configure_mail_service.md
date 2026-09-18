@@ -1,0 +1,2 @@
+- Prompt para configurar SNS com agent toolkit
+- Verificar configuração na conta

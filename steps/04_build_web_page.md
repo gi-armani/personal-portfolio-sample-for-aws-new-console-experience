@@ -1,0 +1,5 @@
+- Prompt para criar página web 
+- Se Kiro sugerir specs/plan mode, nao aceitar
+- Rodar página localmente e fazer ajustes
+- Prompt para fazer deploy da página web estática com Agent Toolkit (deploy com zip do pacote)
+- Verificar deploy na conta
